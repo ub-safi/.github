@@ -26,18 +26,18 @@ The task of engineering increasingly sophisticated smart and interconnected syst
 
 Our courses are intended for professional Engineers, Project Managers, Data Analysts and Computer Scientists with responsibilities in new product design, planning.
 
-| Code | Module Name                                     | Duration             | SIA Description | Flyer     |
-| :--: | ----------------------------------------------- | :------------------: | :-------------: | :-------: |
-| M00  | Introduction to Python with Google Colab        | 7 hours<br>(1 day)   | [url][10]       | [PDF][16] |
-| M01  | Statistics for Engineering                      | 35 hours<br>(5 days) | [url][11]       | [PDF][17] |
-| M03  | Reliability Engineering                         | 35 hours<br>(5 days) | [url][12]       | [PDF][18] |
-| M05  | Robust Engineering                              | 35 hours<br>(5 days) | [url][13]       | [PDF][19] |
-| M06  | Statistical Applications of Industrial Big Data | 35 hours<br>(5 days) | [url][14]       | [PDF][20] |
-| M08  | Industrial Big Data Analysis and Mining         | 35 hours<br>(5 days) | [url][15]       | [PDF][21] |
+| Code | Module Name                                     | Duration             | Our<br>Description | SIA<br>Description | Flyer     |
+| :--: | ----------------------------------------------- | :------------------: | :----------------: | :----------------: | :-------: |
+| M00  | Introduction to Python with Google Colab        | 7 hours<br>(1 day)   | [url][25]          | [url][10]          | [PDF][16] |
+| M01  | Statistics for Engineering                      | 35 hours<br>(5 days) | [url][26]          | [url][11]          | [PDF][17] |
+| M03  | Reliability Engineering                         | 35 hours<br>(5 days) | [url][27]          | [url][12]          | [PDF][18] |
+| M05  | Robust Engineering                              | 35 hours<br>(5 days) | [url][28]          | [url][13]          | [PDF][19] |
+| M06  | Statistical Applications of Industrial Big Data | 35 hours<br>(5 days) | [url][29]          | [url][14]          | [PDF][20] |
+| M08  | Industrial Big Data Analysis and Mining         | 35 hours<br>(5 days) | [url][30]          | [url][15]          | [PDF][21] |
 
-Read more about the modules [on our website >>>][22].
+Read more about the modules [on our website >>>][22]
 
-Our current and upcoming modules are published on several websites: [SAFI >>>][23] and [SIA >>>][24].
+Our current and upcoming modules are published on several websites: [SAFI >>>][23] and [SIA >>>][24]
 
 
 
@@ -66,3 +66,9 @@ Our current and upcoming modules are published on several websites: [SAFI >>>][2
 [22]: https://www.bradford.ac.uk/automotive-research-centre/safi/safi-modules/ 'SAFI: Our Modules'
 [23]: https://www.bradford.ac.uk/automotive-research-centre/safi/upcoming-dates/ 'SAFI: Upcoming Dates'
 [24]: https://www.sia.fr/formations/ 'SIA: Upcoming Dates'
+[25]: https://github.com/ub-safi/m00-intro-to-python-with-colab 'M00 Public Repository'
+[26]: https://github.com/ub-safi/m01-statistics-for-engineering 'M01 Public Repository'
+[27]: https://github.com/ub-safi/m03-reliability-engineering 'M03 Public Repository'
+[28]: https://github.com/ub-safi/m05-robust-engineering 'M05 Public Repository'
+[29]: https://github.com/ub-safi/m06-industrial-big-data-statistical-applications 'M06 Public Repository'
+[30]: https://github.com/ub-safi/m08-industrial-big-data-analysis-and-mining 'M08 Public Repository'
