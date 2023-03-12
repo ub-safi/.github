@@ -37,7 +37,23 @@ Our courses are intended for professional Engineers, Project Managers, Data Anal
 
 Read more about the modules [on our website >>>][22]
 
+
+### Upcoming Dates
+
 Our current and upcoming modules are published on several websites: [SAFI >>>][23] and [SIA >>>][24]
+
+| Month        | Course              |
+| ------------ | ------------------- |
+| Mar 2023     | [M01][26]           |
+| Mar/Apr 2023 | [M05][28]           |
+| Jun 2023     | [M06][29]           |
+| Jun/Jul 2023 | [M08][30]           |
+| Sep 2023     | [M01][26]           |
+| Sep/Oct 2023 | [M06][29]           |
+| Oct 2023     | [M01][26] @ Renault |
+| Oct 2023     | [M03][27]           |
+| Nov 2023     | [M06][29]           |
+| Dec 2023     | [M08][30] @ Renault |
 
 
 
