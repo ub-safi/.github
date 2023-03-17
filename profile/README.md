@@ -48,6 +48,7 @@ Our current and upcoming modules are published on several websites: [SAFI >>>][2
 | Mar/Apr 2023 | [M05][28]           |
 | Jun 2023     | [M06][29]           |
 | Jun/Jul 2023 | [M08][30]           |
+| Sep 2023     | [M00][25]           |
 | Sep 2023     | [M01][26]           |
 | Sep/Oct 2023 | [M06][29]           |
 | Oct 2023     | [M01][26] @ Renault |
