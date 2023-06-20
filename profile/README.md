@@ -44,7 +44,6 @@ Our current and upcoming modules are published on several websites: [SAFI >>>][2
 
 | Month        | Course              |
 | ------------ | ------------------- |
-| Jun 2023     | [M06][29]           |
 | Jun/Jul 2023 | [M08][30]           |
 | Sep 2023     | [M00][25]           |
 | Sep 2023     | [M01][26]           |
