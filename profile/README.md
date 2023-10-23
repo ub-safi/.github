@@ -40,15 +40,21 @@ Read more about the modules [on our website >>>][22]
 
 ### Upcoming Dates
 
-Our current and upcoming modules are published on several websites: [SAFI >>>][23] and [SIA >>>][24]
+Our current and upcoming modules are published on several websites: [SAFI >>>][23] and [ASTE >>>][31] ([module descriptions >>>][32])
 
 | Month        | Course              |
 | ------------ | ------------------- |
-| Sep/Oct 2023 | [M06][29]           |
-| Oct 2023     | [M01][26] @ Renault |
-| Oct 2023     | [M03][27]           |
 | Nov 2023     | [M06][29] @ Renault |
+| Dec 2023     | [M03][27]           |
 | Dec 2023     | [M08][30] @ Renault |
+| Mar 2024     | [M00][25]           |
+| Mar 2024     | [M01][26]           |
+| Mar/Apr 2024 | [M05][28]           |
+| Jun 2024     | [M06][29]           |
+| Jun/Jul 2024 | [M08][30]           |
+
+[![image](https://github.com/ub-safi/.github/assets/36997715/f617c688-76fb-413e-8736-43dd6367774b)](https://www.linkedin.com/feed/update/urn:li:activity:7119639533112942592)
+
 
 
 
@@ -83,3 +89,5 @@ Our current and upcoming modules are published on several websites: [SAFI >>>][2
 [28]: https://github.com/ub-safi/m05-robust-engineering 'M05 Public Repository'
 [29]: https://github.com/ub-safi/m06-industrial-big-data-statistical-applications 'M06 Public Repository'
 [30]: https://github.com/ub-safi/m08-industrial-big-data-analysis-and-mining 'M08 Public Repository'
+[31]: https://aste.asso.fr/formations-safi/ 'ASTE: Upcoming Dates'
+[32]: https://aste.asso.fr/formations-safi-statistical-analysis-for-industry/ 'ASTE: Upcoming Dates and Module Descriptions'
