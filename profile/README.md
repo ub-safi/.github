@@ -2,7 +2,7 @@
 
 ## About Us
 
-The SAFI Consortium Partners ([Airbus][1], [Renault][2], [Stellantis][3], [Valeo][4], [IAV][5] and the [University of Bradford][6]) create innovative learning programmes. We help to develop the knowledge and skills for the mastery of statistical and data-driven approaches. Learn to empower efficient engineering methodologies required for designing current and future generations of complex systems with us!
+The SAFI Consortium Partners ([Airbus][1], [Renault][2], [Stellantis][3], [Valeo][4] <!--, [IAV][5]--> and the [University of Bradford][6]) create innovative learning programmes. We help to develop the knowledge and skills for the mastery of statistical and data-driven approaches. Learn to empower efficient engineering methodologies required for designing current and future generations of complex systems with us!
 
 [Read more >>>][7]
 
