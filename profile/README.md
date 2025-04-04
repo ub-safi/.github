@@ -4,7 +4,7 @@
 
 The SAFI Consortium Partners ([Airbus][1], [Renault][2], [Stellantis][3], [Valeo][4] <!--, [IAV][5]--> and the [University of Bradford][6]) create innovative learning programmes. We help to develop the knowledge and skills for the mastery of statistical and data-driven approaches. Learn to empower efficient engineering methodologies required for designing current and future generations of complex systems with us!
 
-[Read more >>>][7]
+[Read more][7]
 
 
 
@@ -16,9 +16,10 @@ The task of engineering increasingly sophisticated smart and interconnected syst
 
 **Methodology**: SAFI employs an object-oriented training methodology that yields flexible, scalable, and reusable content, supporting clients with rich, targeted courses which lead to fast implementation. Our training seeks to offer a balanced portfolio that mitigate business fluctuations and growth.
 
-[SAFI website >>>][8]
-
-[Prof. Felician Campean about the delivery >>>][9]
+- [SAFI website][8]
+- [Prof. Felician Campean about the delivery][9]
+- [SAFI is named a Top 1 of the University of Bradford Research and Innovation projects that will change the world][39]
+    - see [the University of Bradford Research and Innovation Annual Report 2023/24][40] (page 27)
 
 
 
@@ -26,22 +27,23 @@ The task of engineering increasingly sophisticated smart and interconnected syst
 
 Our courses are intended for professional Engineers, Project Managers, Data Analysts and Computer Scientists with responsibilities in new product design, planning.
 
-| Code | Module Name                                     | Duration             | Our<br>Description | SIA<br>Description | Flyer     |
-| :--: | ----------------------------------------------- | :------------------: | :----------------: | :----------------: | :-------: |
-| M00  | Introduction to Python with Google Colab        | 7 hours<br>(1 day)   | [url][25]          | [url][10]          | [PDF][16] |
-| M01  | Statistics for Engineering                      | 35 hours<br>(5 days) | [url][26]          | [url][11]          | [PDF][17] |
-| M03  | Reliability Engineering                         | 35 hours<br>(5 days) | [url][27]          | [url][12]          | [PDF][18] |
-| M05  | Robust Engineering                              | 35 hours<br>(5 days) | [url][28]          | [url][13]          | [PDF][19] |
-| M06  | Statistical Applications of Industrial Big Data | 35 hours<br>(5 days) | [url][29]          | [url][14]          | [PDF][20] |
-| M08  | Industrial Big Data Analysis and Mining         | 35 hours<br>(5 days) | [url][30]          | [url][15]          | [PDF][21] |
+| Code | Module Name                                           | Duration             | ASTE Flyer (in French) |
+| :--: | ----------------------------------------------------- | :------------------: | :--------------------: |
+| M00  | [Introduction to Python with Google Colab][25]        | 7 hours<br>(1 day)   | [PDF][33] (page 25)    |
+| M01  | [Statistics for Engineering][26]                      | 35 hours<br>(5 days) | [PDF][34] (page 26)    |
+| M03  | [Reliability Engineering][27]                         | 35 hours<br>(5 days) | [PDF][35] (page 27)    |
+| M05  | [Robust Engineering][28]                              | 35 hours<br>(5 days) | [PDF][36] (page 28)    |
+| M06  | [Statistical Applications of Industrial Big Data][29] | 35 hours<br>(5 days) | [PDF][37] (page 29)    |
+| M08  | [Industrial Big Data Analysis and Mining][30]         | 35 hours<br>(5 days) | [PDF][38] (page 30)    |
 
-Read more about the modules [on our website >>>][22]
+Read more about the modules [on our website][22]
 
 
 ### Upcoming Dates
 
-Our current and upcoming modules are published on several websites: [SAFI >>>][23] and [ASTE >>>][31] ([module descriptions >>>][32])
+Our current and upcoming modules are published on several websites: [SAFI][23] and [ASTE][31]
 
+<!--
 | Month        | Course              |
 | ------------ | ------------------- |
 | Nov 2023     | [M06][29] @ Renault |
@@ -52,8 +54,11 @@ Our current and upcoming modules are published on several websites: [SAFI >>>][2
 | Mar/Apr 2024 | [M05][28]           |
 | Jun 2024     | [M06][29]           |
 | Jun/Jul 2024 | [M08][30]           |
+-->
 
-[![image](https://github.com/ub-safi/.github/assets/36997715/f617c688-76fb-413e-8736-43dd6367774b)](https://www.linkedin.com/feed/update/urn:li:activity:7119639533112942592)
+<!-- [![image](https://github.com/ub-safi/.github/assets/36997715/f617c688-76fb-413e-8736-43dd6367774b)](https://www.linkedin.com/feed/update/urn:li:activity:7119639533112942592) -->
+
+![SAFI course flyer](https://github.com/user-attachments/assets/fad1a12f-546e-4b39-8950-e32f58a68330)
 
 
 
@@ -91,3 +96,11 @@ Our current and upcoming modules are published on several websites: [SAFI >>>][2
 [30]: https://github.com/ub-safi/m08-industrial-big-data-analysis-and-mining 'M08 Public Repository'
 [31]: https://aste.asso.fr/formations-safi/ 'ASTE: Upcoming Dates'
 [32]: https://aste.asso.fr/formations-safi-statistical-analysis-for-industry/ 'ASTE: Upcoming Dates and Module Descriptions'
+[33]: https://aste.asso.fr/wp-content/uploads/ASTE-Guide-formation-2025.pdf#page=25 'ASTE: M0 PDF Flyer (page 25)'
+[34]: https://aste.asso.fr/wp-content/uploads/ASTE-Guide-formation-2025.pdf#page=26 'ASTE: M1 PDF Flyer (page 26)'
+[35]: https://aste.asso.fr/wp-content/uploads/ASTE-Guide-formation-2025.pdf#page=27 'ASTE: M3 PDF Flyer (page 27)'
+[36]: https://aste.asso.fr/wp-content/uploads/ASTE-Guide-formation-2025.pdf#page=28 'ASTE: M5 PDF Flyer (page 28)'
+[37]: https://aste.asso.fr/wp-content/uploads/ASTE-Guide-formation-2025.pdf#page=29 'ASTE: M6 PDF Flyer (page 29)'
+[38]: https://aste.asso.fr/wp-content/uploads/ASTE-Guide-formation-2025.pdf#page=30 'ASTE: M8 PDF Flyer (page 30)'
+[39]: https://www.bradford.ac.uk/news/archive/2024/10-university-of-bradford-research-and-innovation-projects-that-will-change-the-world.php#:~:text=Datacentric%20engineering '10 University of Bradford research and innovation projects that will change the world'
+[40]: https://www.bradford.ac.uk/research/Research-and-Innovation-Annual-Report-23_24_.pdf#page=27 'University of Bradford Research and Innovation Annual Report 2023/24 (SAFI on page 27)'
