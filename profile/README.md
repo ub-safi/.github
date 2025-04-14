@@ -27,14 +27,14 @@ The task of engineering increasingly sophisticated smart and interconnected syst
 
 Our courses are intended for professional Engineers, Project Managers, Data Analysts and Computer Scientists with responsibilities in new product design, planning.
 
-| Code | Module Name                                           | Duration             | ASTE Flyer (in French) |
-| :--: | ----------------------------------------------------- | :------------------: | :--------------------: |
-| M00  | [Introduction to Python with Google Colab][25]        | 7 hours<br>(1 day)   | [PDF][33] (page 25)    |
-| M01  | [Statistics for Engineering][26]                      | 35 hours<br>(5 days) | [PDF][34] (page 26)    |
-| M03  | [Reliability Engineering][27]                         | 35 hours<br>(5 days) | [PDF][35] (page 27)    |
-| M05  | [Robust Engineering][28]                              | 35 hours<br>(5 days) | [PDF][36] (page 28)    |
-| M06  | [Statistical Applications of Industrial Big Data][29] | 35 hours<br>(5 days) | [PDF][37] (page 29)    |
-| M08  | [Industrial Big Data Analysis and Mining][30]         | 35 hours<br>(5 days) | [PDF][38] (page 30)    |
+| Code | Module Name                                           | Duration             | ASTE page (in French) | ASTE Flyer (in French) |
+| :--: | ----------------------------------------------------- | :------------------: | :-------------------: | :--------------------: |
+| M00  | [Introduction to Python with Google Colab][25]        | 7 hours<br>(1 day)   | [url][41]             | [PDF][33] (page 25)    |
+| M01  | [Statistics for Engineering][26]                      | 35 hours<br>(5 days) | [url][42]             | [PDF][34] (page 26)    |
+| M03  | [Reliability Engineering][27]                         | 35 hours<br>(5 days) | [url][43]             | [PDF][35] (page 27)    |
+| M05  | [Robust Engineering][28]                              | 35 hours<br>(5 days) | [url][44]             | [PDF][36] (page 28)    |
+| M06  | [Statistical Applications of Industrial Big Data][29] | 35 hours<br>(5 days) | [url][45]             | [PDF][37] (page 29)    |
+| M08  | [Industrial Big Data Analysis and Mining][30]         | 35 hours<br>(5 days) | [url][46]             | [PDF][38] (page 30)    |
 
 Read more about the modules [on our website][22]
 
@@ -104,3 +104,9 @@ Our current and upcoming modules are published on several websites: [SAFI][23] a
 [38]: https://aste.asso.fr/wp-content/uploads/ASTE-Guide-formation-2025.pdf#page=30 'ASTE: M8 PDF Flyer (page 30)'
 [39]: https://www.bradford.ac.uk/news/archive/2024/10-university-of-bradford-research-and-innovation-projects-that-will-change-the-world.php#:~:text=Datacentric%20engineering '10 University of Bradford research and innovation projects that will change the world'
 [40]: https://www.bradford.ac.uk/research/Research-and-Innovation-Annual-Report-23_24_.pdf#page=27 'University of Bradford Research and Innovation Annual Report 2023/24 (SAFI on page 27)'
+[41]: https://aste.asso.fr/formations-safi/introduction-to-python-with-google-colab-safi-m0/ 'ASTE: About M0'
+[42]: https://aste.asso.fr/formations-safi/statistics-for-engineering-safi-m1/ 'ASTE: About M1'
+[43]: https://aste.asso.fr/formations-safi/reliability-engineering-safi-m3/ 'ASTE: About M3'
+[44]: https://aste.asso.fr/formations-safi/robust-engineering-safi-m5/ 'ASTE: About M5'
+[45]: https://aste.asso.fr/formations-safi/statistical-applications-of-industrial-big-data-safi-m6/ 'ASTE: About M6'
+[46]: https://aste.asso.fr/formations-safi/industrial-big-data-analysis-and-mining-safi-m8/ 'ASTE: About M8'
